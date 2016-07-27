@@ -1,3 +1,6 @@
+
+NOTE: Cursor101 is a unity project (App is the built project, but is huge so doesn't go in git)
+
 Goal: Create a cursor from scratch that follows my gaze.
 
 Dependencies/Questions:
