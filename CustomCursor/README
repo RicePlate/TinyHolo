@@ -1,0 +1,34 @@
+Goal: Create a cursor from scratch that follows my gaze.
+
+Dependencies/Questions:
+    1. Raycast (and using the Physics API)
+    2. Gaze manager? Is this necessary? Seems like just a wrapper on Camera.main
+    3. How do I make a cursor that conforms to my already mapped surroundings?
+
+Part 1: Setup
+------------- 
+(assumes familiarity with the tutorials)
+
+0. clone, and follow directions for importing HoloToolkit
+1. setup project player + quality (Edit -> Project Settings -> Player... you know the drill)
+   - remove Main Camera and Directional Light
+   - What's "Use 16-bit Depth Buffers" and should I select it?
+2. grab Main Camera asset from holotoolkit -> Utilities -> Prefabs -> Main Camera  (ooh what's this FPSDisplay?)
+3. save scene as (ctrl+s) New Folder -> "Scenes" -> Scenes/Cursor101
+4. Build and deploy to device (should just see the unity intro screen and then nothingness)
+
+16-bit Depth Buffers
+--------------------
+TODO: (something to do with depth of the scene, shadow effects (aka ambient occlusion)
+      it's quickly down the rabbithole here with understanding Depth Textures, what scene depth is,
+      what about if my scene has no directional light? what if there's a shader that supports lighting?
+      will i be able to see it? way too much info for just initial exploration (way too tangential).
+
+-> don't select for now, until I can understand its effects more fully
+
+
+
+Part 2: Create Cursor
+---------------------
+1. Create a new game object and rename it "MyCursor"
+2. 

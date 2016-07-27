@@ -1,0 +1,17 @@
+C:\cygwin\home\Spence\RicePlate\TinyHolo\CustomCursor\Cursor101\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.dll
+C:\cygwin\home\Spence\RicePlate\TinyHolo\CustomCursor\Cursor101\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pdb
+C:\cygwin\home\Spence\RicePlate\TinyHolo\CustomCursor\Cursor101\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pri
+C:\cygwin\home\Spence\RicePlate\TinyHolo\CustomCursor\Cursor101\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\cygwin\home\Spence\RicePlate\TinyHolo\CustomCursor\Cursor101\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.dll
+C:\cygwin\home\Spence\RicePlate\TinyHolo\CustomCursor\Cursor101\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.pdb
+C:\cygwin\home\Spence\RicePlate\TinyHolo\CustomCursor\Cursor101\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\priconfig.xml
+C:\cygwin\home\Spence\RicePlate\TinyHolo\CustomCursor\Cursor101\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\priconfig.xml.intermediate
+C:\cygwin\home\Spence\RicePlate\TinyHolo\CustomCursor\Cursor101\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\layout.resfiles
+C:\cygwin\home\Spence\RicePlate\TinyHolo\CustomCursor\Cursor101\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\layout.resfiles.intermediate
+C:\cygwin\home\Spence\RicePlate\TinyHolo\CustomCursor\Cursor101\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\resources.resfiles
+C:\cygwin\home\Spence\RicePlate\TinyHolo\CustomCursor\Cursor101\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\resources.resfiles.intermediate
+C:\cygwin\home\Spence\RicePlate\TinyHolo\CustomCursor\Cursor101\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\pri.resfiles
+C:\cygwin\home\Spence\RicePlate\TinyHolo\CustomCursor\Cursor101\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\pri.resfiles.intermediate
+C:\cygwin\home\Spence\RicePlate\TinyHolo\CustomCursor\Cursor101\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt
+C:\cygwin\home\Spence\RicePlate\TinyHolo\CustomCursor\Cursor101\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt.intermediate
+C:\cygwin\home\Spence\RicePlate\TinyHolo\CustomCursor\Cursor101\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\MultipleQualifiersPerDimensionFound.txt
