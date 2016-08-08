@@ -195,6 +195,7 @@
      <Compile Include="Assets\HoloToolkit\Utilities\Tests\Scripts\PlaneTargetGroup.cs" />
      <Compile Include="Assets\HoloToolkit\Utilities\Tests\Scripts\PlaneTargetGroupPicker.cs" />
      <Compile Include="Assets\HoloToolkit\Utilities\Tests\TextToSpeechManagerTest.cs" />
+     <Compile Include="Assets\MyCursor.cs" />
      <None Include="Assets\HoloToolkit\Utilities\Shaders\UnlitConfigurable.shader" />
      <None Include="Assets\HoloToolkit\Utilities\Shaders\VertexLitConfigurable.cginc" />
      <None Include="Assets\HoloToolkit\Utilities\Shaders\UnlitConfigurableTransparent.shader" />
